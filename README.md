@@ -1,14 +1,18 @@
 # Real-estate
 
-## Overview
+## Development plan
 ```sh
-This website is envisioned for use by multiple real estate agents scattered across various branches of the company.
-Agents can upload their individual property listings and also share listings of other registered colleagues within the company.
-Agents can respond to inquiries about properties in other areas and prevent customer leakage to other companies.
-The company owner can access reports, checking transaction rates and price trends on a monthly or quarterly basis for different branches.
+💡 This website is..
+ • Envisioned for use by multiple real estate agents of various branches of the company.
+💡 Agents can..
+ • Upload their individual property listings
+ • Share listings of other registered colleagues within the company
+ • Respond to inquiries about properties in other areas prevent customer leakage to other companies.
+ • The company owner can access reports
+    → checking transaction rates and price trends on a monthly or quarterly basis for different branches.
 ```
 
-## Development
+## Future Development
 ```sh
 This repository was initially created as a self-development page for HTML coding practice.
 However, there are plans to further enhance it by developing backend code and improving the UI environment.
